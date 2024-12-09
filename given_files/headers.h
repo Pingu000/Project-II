@@ -1,4 +1,4 @@
-#define SIZE_BLOQUE 512
+#define SIZE_BLOQUE 
 #define MAX_INODOS 24
 #define MAX_FICHEROS 20
 #define MAX_BLOQUES_DATOS 96
